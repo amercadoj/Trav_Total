@@ -1,2 +1,2 @@
 # Trav_Total
-Repositorio Travesías Ead-PUCV
+Repositorio Travesías Ead-PUCV ...
